@@ -63,3 +63,24 @@ The dataset contains:
 
 Place the downloaded dataset inside:
 
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages & Tools**
+- Python  
+- Pandas  
+- NumPy  
+
+### **Algorithms**
+- SVD / ALS / NMF  
+- TF-IDF  
+- Cosine similarity  
+- Embeddings  
+
+### **Libraries**
+- Scikit-learn  
+- Surprise or LightFM  
+- Matplotlib / Seaborn  
+- FAISS or Annoy (optional)
